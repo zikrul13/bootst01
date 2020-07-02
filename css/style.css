@@ -1,0 +1,29 @@
+img{
+	max-width: 100%
+}
+.navbar-brand{
+	max-width: 100px;
+}
+header{
+	
+
+}
+header h1{background-color: #961f34;
+	color: #fff;
+	padding: 100px 0;
+	font-size: 70px;
+	text-align: center;
+	text-shadow: 2px 7px 0 #0003;
+	font-weight: 700;
+
+}
+
+
+.signup-section{
+	padding: 50px 0;
+}
+
+.login-section .row{
+height: 100vh;
+align-items: center;
+}
